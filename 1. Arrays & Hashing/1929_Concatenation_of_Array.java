@@ -1,3 +1,10 @@
+'''
+Description
+LeetCode solution to 1929. Concatenation of Array
+
+@author: Jw
+'''
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int[] newNums = new int[nums.length * 2];
