@@ -1,6 +1,6 @@
 '''
 Description
-LeetCode solution to 605. Can Place Flowers
+LeetCode solution to 724. Find Pivot Index
 
 Website Link: https://leetcode.com/problems/find-pivot-index/description/
 
