@@ -1,6 +1,6 @@
 '''
 Description
-LeetCode solution to 605. Can Place Flowers
+LeetCode solution to 169. Majority Element
 
 Website Link: https://leetcode.com/problems/majority-element/description/
 
