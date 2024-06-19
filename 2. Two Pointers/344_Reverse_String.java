@@ -6,8 +6,7 @@ Website Link: https://leetcode.com/problems/reverse-string/description/
 
 @author: Jw
 '''
-c
-lass Solution {
+class Solution {
     public void reverseString(char[] s) {
         // Two Pointers to swap s[left] with s[right]
         int left = 0;
