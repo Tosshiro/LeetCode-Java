@@ -4,7 +4,7 @@ LeetCode solution to 344. Reverse String
 
 Website Link: https://leetcode.com/problems/reverse-string/description/
 
-@author: Jw
+@author: JW
 '''
 
 class Solution {
