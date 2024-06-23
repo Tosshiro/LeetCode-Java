@@ -7,6 +7,8 @@ Website Link: https://leetcode.com/problems/boats-to-save-people/description/
 @author: JW
 '''
 
+import java.util.Arrays;
+
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
         // Sorting and two pointer
